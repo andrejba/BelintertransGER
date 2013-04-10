@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BelintertransGER</string>
+    <string name="welcome_page_text">Welcome to the Belintertrans-Germany App!</string>
+    <string name="company_name">BELINTERTRANS\nGERMANY</string>
+
+</resources>
